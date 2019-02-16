@@ -1,4 +1,4 @@
-let playlist_one = {
+let playlist = {
   "Daft Punk" : "Something About Us",
   "Joy Division" : "Atrocity Exhibition",
   "David Bowie" : "Sound and Vision"
